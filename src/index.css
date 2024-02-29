@@ -1,0 +1,48 @@
+body{
+  background-color: #8a95a0;
+}
+
+.loginPage {
+  background: url('./Assests/247365.jpg');
+  background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("./Assests/247365.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
+
+.loginForm {
+  background-color: rgba(1, 32, 93, 0.6);
+  color: white;
+}
+
+label{
+  color: white;
+  font-weight: bold;
+}
+
+input{
+  width: 100%;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+}
+
+.addproduct > label {
+  color: black;
+  font-weight: bold;
+}
+
+.addproduct > input {
+    width: 50%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+}
