@@ -7,3 +7,6 @@ kannanking2001@gmail.com // 123456789
 
 UserAccount :
 user11@gmail.com // 123456789
+
+Frontend Deployed by Netlify.app
+Backend Deployed by Render.com
